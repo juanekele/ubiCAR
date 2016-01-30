@@ -15,7 +15,9 @@
         tools:context="ubicar.ubicar.ubiCAR"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="98dp" />
-
+<EditText
+    android:layout_width=""
+    android:layout_height="" />
 
 </RelativeLayout>
 
